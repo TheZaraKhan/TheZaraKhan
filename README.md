@@ -1,18 +1,15 @@
+<
+
+
+<img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/1643567675216.jpeg" alt="Banner about Zara Khan">
+
 <h1 align="center">Hi 👋, I'm Zara</h1>
-<h3 align="center">A design-minded Developer focused on building beautiful interfaces & experiences.</h3>
 
-- 🌱 I’m currently learning **ReactJS & NodeJS**
+<p>A design-minded Developer focused on building beautiful interfaces & experiences. As a Front-End developer, I bridge the gap between engineering and design. I have always been hard working and goal's focused with proven results. </p>
+- 🌱 I’m currently expanding my skills in **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://zarakhan.netlify.app/](https://zarakhan.netlify.app/)
-
-- 💬 Ask me about **Tailwind, CSS, Javascript**
-
-- 📫 How to reach me **zaratariqkhaan@gmail.com**
-
-- 📄 Know about my experiences [https://zarakhan.netlify.app/ZaraKhan-Resume.pdf](https://zarakhan.netlify.app/ZaraKhan-Resume.pdf)
-
-- ⚡ Fun fact **Optimistic , Emotional, Dramatic**
-
+Check my projects on my Online  <a href="https://zarakhan.netlify.app/](https://zarakhan.netlify.app/" target="_blank" rel="noreferrer"> **Portfolio**</a>
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io//zaraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="/zaraa" height="30" width="40" /></a>
