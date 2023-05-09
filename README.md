@@ -7,7 +7,7 @@ Hi, I'm Zara.</h1>
 <p> A design-minded Developer focused on building beautiful interfaces & experiences. As a Front-End developer, I bridge the gap between engineering and design. I have always been hard working and goal's focused with proven results. </p>
 - 🌱 I’m currently expanding my skills in **ReactJS**
 
-<p>Check my projects on my Online  <a href="https://zarakhan.netlify.app/](https://zarakhan.netlify.app/" target="_blank" rel="noreferrer"> **Portfolio**</a></p>
+<p>Check my projects on my Online  <a href="https://zarakhan.netlify.app/" target="_blank" rel="noreferrer"> **Portfolio**</a></p>
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
